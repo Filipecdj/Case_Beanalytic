@@ -2,7 +2,7 @@
 Resolução Case Engenheiro de Dados Jr Beanalytic
 
 # Metodologia
-Para a resolução do case, foi utilizado um código Pyhton com o dever de realizar a raspagem de dados do site `(https://steamdb.info/sales/)` e posteriormente concluir a carga de dados no data warehouse Google Big Query. Diante disso, foram utilizadas as seguintes bibliotecas para o auxílio dessa tarefa.
+Para a resolução do case, foi utilizado um código Python com o dever de realizar a raspagem de dados do site `(https://steamdb.info/sales/)` e posteriormente concluir a carga de dados no data warehouse Google Big Query. Diante disso, foram utilizadas as seguintes bibliotecas para o auxílio dessa tarefa.
 
 1. `import requests`
 2. `import pandas as pd`
