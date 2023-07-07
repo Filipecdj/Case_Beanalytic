@@ -1,4 +1,4 @@
-# Case Técnico Beanalytic
+# Case técnico Beanalytic
 Resolução Case Engenheiro de Dados Jr Beanalytic
 
 # Metodologia
