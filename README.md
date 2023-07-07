@@ -18,7 +18,7 @@ Para executar o código, primeiramente você terá que coletar os Headers de con
 4. Realizando os passos anteriores, clique com o botão direito do mouse em `Sales` -> `Copy` -> `Copy all as cURL (cmd)`.
 5. Com isso, você terá as configurações dos headers para realizar a requisição HTTP com o site.
 
-Ao realizar o passo a passo anterior, para finalizar a carga no GBQ será necessario ter um arquivo `.JSON` com as configurações de conexão do Google cloud plataform. Para obter esse arquivo siga os passos as seguir no Google Big query, tendo em vista que já tenha uma conta configurada.
+Ao realizar o passo a passo anterior, para finalizar a carga no GBQ será necessario ter um arquivo `.JSON` com as configurações de conexão do Google cloud plataform. Para obter esse arquivo siga os passos a seguir no Google Big query, tendo em vista que já tenha uma conta configurada.
 1. `Menu de navegação` -> `IAM e administrador` -> `Contas de serviço` -> `Escolher uma conta existente ou criar uma nova` -> `Nos 3 pontos, clicar em criar chave`
 
 Após realizar essas configurações, execute o código.
